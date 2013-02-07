@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Hemant/Study/J2EE/Spring/Jars/antlr-runtime-3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Hemant/Study/J2EE/Spring/Jars/commons-dbcp.jar"/>
+	<classpathentry kind="lib" path="D:/Hemant/Study/J2EE/Spring/Jars/commons-logging.jar"/>
+	<classpathentry kind="lib" path="D:/Hemant/Study/J2EE/Spring/Jars/commons-pool.jar"/>
+	<classpathentry kind="lib" path="D:/Hemant/Study/J2EE/Spring/Jars/hsqldb.jar"/>
+	<classpathentry kind="lib" path="C:/spring-framework-3.0.0.M3/dist/org.springframework.asm-3.0.0.M3.jar"/>
+	<classpathentry kind="lib" path="C:/spring-framework-3.0.0.M3/dist/org.springframework.beans-3.0.0.M3.jar"/>
+	<classpathentry kind="lib" path="C:/spring-framework-3.0.0.M3/dist/org.springframework.context.support-3.0.0.M3.jar"/>
+	<classpathentry kind="lib" path="C:/spring-framework-3.0.0.M3/dist/org.springframework.context-3.0.0.M3.jar"/>
+	<classpathentry kind="lib" path="C:/spring-framework-3.0.0.M3/dist/org.springframework.core-3.0.0.M3.jar"/>
+	<classpathentry kind="lib" path="C:/spring-framework-3.0.0.M3/dist/org.springframework.expression-3.0.0.M3.jar"/>
+	<classpathentry kind="lib" path="C:/spring-framework-3.0.0.M3/dist/org.springframework.jdbc-3.0.0.M3.jar"/>
+	<classpathentry kind="lib" path="C:/spring-framework-3.0.0.M3/dist/org.springframework.transaction-3.0.0.M3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
